@@ -1,6 +1,6 @@
-*.class
+**/target
+**/.classpath
+**/.project
+**/.settings
+**/dependency-reduced-pom.xml
 
-# Package Files #
-*.jar
-*.war
-*.ear
